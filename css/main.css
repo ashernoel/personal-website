@@ -24,9 +24,7 @@ h1 {
 .navbar-custom.scrolling {
     background-color: #5cb85c;
 }
-a:hover{
-    color: black;
-    text-decoration: none;
+
 }
 
 .navbar-brand, .navbar-custom {
