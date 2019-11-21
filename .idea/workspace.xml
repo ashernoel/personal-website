@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="720e12c9-9377-4b5f-a787-87ee966fded9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tests/Chem Lab 2019-2020/New_Trier_Tryout__Chem_Lab__key.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Chem Lab 2019-2020/New_Trier_Tryout__Chem_Lab__test.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/books.html" beforeDir="false" afterPath="$PROJECT_DIR$/books.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/science-olympiad.html" beforeDir="false" afterPath="$PROJECT_DIR$/science-olympiad.html" afterDir="false" />
@@ -17,20 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/science-olympiad.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="586">
-              <caret line="110" column="63" selection-start-line="110" selection-start-column="63" selection-end-line="110" selection-end-column="63" />
+            <state relative-caret-position="431">
+              <caret line="121" column="16" selection-start-line="121" selection-start-column="16" selection-end-line="121" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/books.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1851">
-              <caret line="193" column="29" selection-start-line="193" selection-start-column="29" selection-end-line="193" selection-end-column="29" />
+            <state relative-caret-position="387">
+              <caret line="185" column="33" selection-start-line="185" selection-start-column="33" selection-end-line="185" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -61,22 +63,21 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/guides.html" />
-        <option value="$PROJECT_DIR$/science-olympiad.html" />
         <option value="$PROJECT_DIR$/books.html" />
+        <option value="$PROJECT_DIR$/science-olympiad.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1680" />
-    <option name="height" value="965" />
+    <option name="height" value="972" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,10 +95,23 @@
               <item name="personal-website" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="personal-website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-website" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Astronomy 2018-2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-website" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Chem Lab 2019-2020" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -117,6 +131,9 @@
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.com/ashernoel/personal-website.git" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/Chem Lab 2019-2020" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -160,7 +177,8 @@
       <workItem from="1572133360455" duration="700000" />
       <workItem from="1572135801002" duration="723000" />
       <workItem from="1572212605054" duration="315000" />
-      <workItem from="1572811504612" duration="388000" />
+      <workItem from="1572811504612" duration="1097000" />
+      <workItem from="1574296516604" duration="401000" />
     </task>
     <task id="LOCAL-00001" summary="Updated roles">
       <created>1563970427769</created>
@@ -183,14 +201,28 @@
       <option name="project" value="LOCAL" />
       <updated>1572136504329</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated roles">
+      <created>1572811902339</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572811902340</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added The Art of Loving">
+      <created>1572812079203</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572812079203</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6206000" />
+    <option name="totallyTimeSpent" value="7316000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="965" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="972" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22061484" />
@@ -236,7 +268,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated roles" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated roles" />
+    <MESSAGE value="Added The Art of Loving" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added The Art of Loving" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/about.html" />
@@ -251,17 +284,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css" />
     <entry file="file://$PROJECT_DIR$/science-olympiad 2.html" />
-    <entry file="file://$PROJECT_DIR$/science-olympiad.html">
+    <entry file="file://$PROJECT_DIR$/books.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="586">
-          <caret line="110" column="63" selection-start-line="110" selection-start-column="63" selection-end-line="110" selection-end-column="63" />
+        <state relative-caret-position="387">
+          <caret line="185" column="33" selection-start-line="185" selection-start-column="33" selection-end-line="185" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/books.html">
+    <entry file="file://$PROJECT_DIR$/science-olympiad.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1851">
-          <caret line="193" column="29" selection-start-line="193" selection-start-column="29" selection-end-line="193" selection-end-column="29" />
+        <state relative-caret-position="431">
+          <caret line="121" column="16" selection-start-line="121" selection-start-column="16" selection-end-line="121" selection-end-column="16" />
         </state>
       </provider>
     </entry>
