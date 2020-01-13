@@ -2,29 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="720e12c9-9377-4b5f-a787-87ee966fded9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dist/gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/asherMorocco.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/clearMind.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/science-olympiad.html" beforeDir="false" afterPath="$PROJECT_DIR$/science-olympiad.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Astronomy 2018-2019/Troy_Invitational__Astronomy_C_KEY.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Astronomy 2018-2019/Troy_Invitational__Astronomy_C_TEST.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Astronomy 2019-2020/Las_Vegas__Astronomy_KEY.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Astronomy 2019-2020/Las_Vegas__Astronomy_TEST.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Chem Lab 2019-2020/New_Trier_Tryout__Chem_Lab__key.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Chem Lab 2019-2020/New_Trier_Tryout__Chem_Lab__test.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Circuit Lab 2019-2020/BocaRatonNewTrierTryout_2020_CircuitLabC_ExamBooklet_TEST.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Circuit Lab 2019-2020/BocaRatonNewTrierTryout_2020_CircuitLabC_KEY.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Circuit Lab 2019-2020/UTInvitational_2020_CircuitLab_B_EXAM.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Circuit Lab 2019-2020/UTInvitational_2020_CircuitLab_B_KEY.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Circuit Lab 2019-2020/UTInvitational_2020_CircuitLab_C_EXAM.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Circuit Lab 2019-2020/UTInvitational_2020_CircuitLab_C_KEY.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/about.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/gallery.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/science-olympiad.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/subpage.css" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,7 +37,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-587">
+            <state relative-caret-position="975">
               <caret line="65" column="106" selection-start-line="65" selection-start-column="106" selection-end-line="65" selection-end-column="106" />
             </state>
           </provider>
@@ -49,7 +46,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/scienceolympiad.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
+            <state relative-caret-position="615">
               <caret line="41" column="18" selection-start-line="27" selection-start-column="12" selection-end-line="41" selection-end-column="18" />
             </state>
           </provider>
@@ -58,17 +55,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/portfolio-2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
+            <state relative-caret-position="255">
               <caret line="17" column="4" selection-end-line="182" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dist/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="101" column="14" selection-start-line="81" selection-start-column="8" selection-end-line="101" selection-end-column="14" />
+            <state relative-caret-position="318">
+              <caret line="65" column="62" selection-start-line="65" selection-start-column="62" selection-end-line="65" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -82,11 +79,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="80" column="66" selection-start-line="80" selection-start-column="66" selection-end-line="80" selection-end-column="66" />
+            <state relative-caret-position="1110">
+              <caret line="74" column="111" selection-start-line="74" selection-start-column="111" selection-end-line="74" selection-end-column="111" />
             </state>
           </provider>
         </entry>
@@ -94,8 +91,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="77" column="36" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
+            <state relative-caret-position="1260">
+              <caret line="84" column="16" selection-start-line="84" selection-start-column="16" selection-end-line="91" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -103,15 +100,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/pages.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
+            <state relative-caret-position="3255">
               <caret line="217" column="4" selection-start-line="217" selection-start-column="4" selection-end-line="257" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/science-olympiad.css">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -153,9 +145,9 @@
         <option value="$PROJECT_DIR$/guides.html" />
         <option value="$PROJECT_DIR$/books.html" />
         <option value="$PROJECT_DIR$/science-olympiad.html" />
-        <option value="$PROJECT_DIR$/dist/about.html" />
         <option value="$PROJECT_DIR$/dist/scienceolympiad.html" />
         <option value="$PROJECT_DIR$/dist/gallery.html" />
+        <option value="$PROJECT_DIR$/dist/about.html" />
       </list>
     </option>
   </component>
@@ -170,6 +162,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,18 +173,30 @@
             <path>
               <item name="personal-website" type="b2602c69:ProjectViewProjectNode" />
               <item name="personal-website" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="personal-website" type="b2602c69:ProjectViewProjectNode" />
               <item name="personal-website" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-website" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-website" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,14 +235,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.gallery.html">
+  <component name="RunManager" selected="JavaScript Debug.about.html">
+    <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/personal-website/dist/about.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="contact.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/personal-website/dist/contact.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="gallery.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/personal-website/dist/gallery.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/personal-website/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="science-olympiad.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/personal-website/science-olympiad.html" useBuiltInWebServerPort="true">
@@ -248,11 +253,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.about.html" />
         <item itemvalue="JavaScript Debug.gallery.html" />
         <item itemvalue="JavaScript Debug.scienceolympiad.html" />
         <item itemvalue="JavaScript Debug.contact.html" />
         <item itemvalue="JavaScript Debug.science-olympiad.html" />
-        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +288,10 @@
       <workItem from="1578768583116" duration="777000" />
       <workItem from="1578940279996" duration="1259000" />
       <workItem from="1578949358432" duration="171000" />
-      <workItem from="1578949579291" duration="2749000" />
+      <workItem from="1578949579291" duration="2773000" />
+      <workItem from="1578953176871" duration="373000" />
+      <workItem from="1578953555022" duration="152000" />
+      <workItem from="1578953736785" duration="215000" />
     </task>
     <task id="LOCAL-00001" summary="Updated roles">
       <created>1563970427769</created>
@@ -411,30 +419,38 @@
       <option name="project" value="LOCAL" />
       <updated>1578769083447</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="lots of changes">
+      <created>1578953169661</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1578953169662</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18117000" />
+    <option name="totallyTimeSpent" value="18881000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="229" y="27" width="1207" height="961" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22006746" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22403434" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32911393" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32911393" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32961375" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -470,7 +486,11 @@
     <MESSAGE value="Added SOLVI" />
     <MESSAGE value="Added SOLVI Summary Statistics" />
     <MESSAGE value="Added AAS presentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added AAS presentation" />
+    <MESSAGE value="lots of changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="lots of changes" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/personal_website$about_html.dat" NAME="about.html Coverage Results" MODIFIED="1578953885927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gallery.html" />
@@ -490,27 +510,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/science-olympiad.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/books.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3135">
-          <caret line="209" column="210" selection-start-line="209" selection-start-column="210" selection-end-line="209" selection-end-column="210" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/science-olympiad.css" />
     <entry file="file://$PROJECT_DIR$/dist/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-587">
+        <state relative-caret-position="975">
           <caret line="65" column="106" selection-start-line="65" selection-start-column="106" selection-end-line="65" selection-end-column="106" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/pages.html">
+    <entry file="file://$PROJECT_DIR$/dist/scienceolympiad.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="217" column="4" selection-start-line="217" selection-start-column="4" selection-end-line="257" />
+        <state relative-caret-position="615">
+          <caret line="41" column="18" selection-start-line="27" selection-start-column="12" selection-end-line="41" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/portfolio-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="4" selection-end-line="182" />
         </state>
       </provider>
     </entry>
@@ -521,38 +539,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dist/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="74" column="111" selection-start-line="74" selection-start-column="111" selection-end-line="74" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="77" column="36" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
+        <state relative-caret-position="1260">
+          <caret line="84" column="16" selection-start-line="84" selection-start-column="16" selection-end-line="91" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/pages.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3255">
+          <caret line="217" column="4" selection-start-line="217" selection-start-column="4" selection-end-line="257" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/books.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3135">
+          <caret line="209" column="210" selection-start-line="209" selection-start-column="210" selection-end-line="209" selection-end-column="210" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="101" column="14" selection-start-line="81" selection-start-column="8" selection-end-line="101" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/portfolio-2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="17" column="4" selection-end-line="182" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/scienceolympiad.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="41" column="18" selection-start-line="27" selection-start-column="12" selection-end-line="41" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="80" column="66" selection-start-line="80" selection-start-column="66" selection-end-line="80" selection-end-column="66" />
+        <state relative-caret-position="318">
+          <caret line="65" column="62" selection-start-line="65" selection-start-column="62" selection-end-line="65" selection-end-column="62" />
         </state>
       </provider>
     </entry>
