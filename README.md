@@ -1,2 +1,2 @@
 # personal-website
-An introductory project for me to get acquainted with Github and store files publicly. 
+A personal website to record quotes and publish Science Olympiad resources.
