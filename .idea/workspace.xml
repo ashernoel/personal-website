@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="720e12c9-9377-4b5f-a787-87ee966fded9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scienceolympiad.html" beforeDir="false" afterPath="$PROJECT_DIR$/scienceolympiad.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -66,7 +67,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/travel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
+            <state relative-caret-position="1440">
               <caret line="96" column="237" selection-start-line="96" selection-start-column="237" selection-end-line="96" selection-end-column="237" />
             </state>
           </provider>
@@ -75,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scienceolympiad.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="144" lean-forward="true" selection-start-line="144" selection-end-line="144" />
+            <state relative-caret-position="401">
+              <caret line="249" column="131" lean-forward="true" selection-start-line="249" selection-start-column="131" selection-end-line="249" selection-end-column="131" />
             </state>
           </provider>
         </entry>
@@ -263,7 +264,8 @@
       <workItem from="1579414050306" duration="534000" />
       <workItem from="1579416006424" duration="196000" />
       <workItem from="1579481934802" duration="1000" />
-      <workItem from="1580055157717" duration="1760000" />
+      <workItem from="1580055157717" duration="2714000" />
+      <workItem from="1580077801306" duration="354000" />
     </task>
     <task id="LOCAL-00001" summary="Updated roles">
       <created>1563970427769</created>
@@ -468,11 +470,18 @@
       <option name="project" value="LOCAL" />
       <updated>1580056978889</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Added Video Link">
+      <created>1580057182544</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1580057182544</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31379000" />
+    <option name="totallyTimeSpent" value="32687000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="81" y="23" width="1599" height="961" extended-state="0" />
@@ -607,6 +616,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/travel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="96" column="237" selection-start-line="96" selection-start-column="237" selection-end-line="96" selection-end-column="237" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/books.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -614,17 +630,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/travel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="96" column="237" selection-start-line="96" selection-start-column="237" selection-end-line="96" selection-end-column="237" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scienceolympiad.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="144" lean-forward="true" selection-start-line="144" selection-end-line="144" />
+        <state relative-caret-position="401">
+          <caret line="249" column="131" lean-forward="true" selection-start-line="249" selection-start-column="131" selection-end-line="249" selection-end-column="131" />
         </state>
       </provider>
     </entry>
