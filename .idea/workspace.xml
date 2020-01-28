@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="720e12c9-9377-4b5f-a787-87ee966fded9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scienceolympiad.html" beforeDir="false" afterPath="$PROJECT_DIR$/scienceolympiad.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -76,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scienceolympiad.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="249" column="131" lean-forward="true" selection-start-line="249" selection-start-column="131" selection-end-line="249" selection-end-column="131" />
+            <state relative-caret-position="440">
+              <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
             </state>
           </provider>
         </entry>
@@ -144,7 +143,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="81" />
     <option name="y" value="23" />
-    <option name="width" value="1599" />
+    <option name="width" value="1471" />
     <option name="height" value="961" />
   </component>
   <component name="ProjectView">
@@ -265,7 +264,7 @@
       <workItem from="1579416006424" duration="196000" />
       <workItem from="1579481934802" duration="1000" />
       <workItem from="1580055157717" duration="2714000" />
-      <workItem from="1580077801306" duration="354000" />
+      <workItem from="1580077801306" duration="1472000" />
     </task>
     <task id="LOCAL-00001" summary="Updated roles">
       <created>1563970427769</created>
@@ -477,17 +476,38 @@
       <option name="project" value="LOCAL" />
       <updated>1580057182544</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Added Video Link">
+      <created>1580078225745</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1580078225745</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Added Video Link">
+      <created>1580078599496</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1580078599496</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Added MIT circuit">
+      <created>1580078669866</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1580078669866</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32687000" />
+    <option name="totallyTimeSpent" value="33805000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="81" y="23" width="1599" height="961" extended-state="0" />
+    <frame x="81" y="23" width="1471" height="961" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16793409" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18275861" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -541,7 +561,8 @@
     <MESSAGE value="Revising Site" />
     <MESSAGE value="Fixed Titles" />
     <MESSAGE value="Added Video Link" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Video Link" />
+    <MESSAGE value="Added MIT circuit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added MIT circuit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/personal_website$about_html.dat" NAME="about.html Coverage Results" MODIFIED="1578953885927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
@@ -632,8 +653,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scienceolympiad.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="249" column="131" lean-forward="true" selection-start-line="249" selection-start-column="131" selection-end-line="249" selection-end-column="131" />
+        <state relative-caret-position="440">
+          <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
         </state>
       </provider>
     </entry>
