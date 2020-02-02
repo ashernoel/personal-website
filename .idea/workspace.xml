@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="720e12c9-9377-4b5f-a787-87ee966fded9" name="Default Changelist" comment="">
+    <list default="true" id="720e12c9-9377-4b5f-a787-87ee966fded9" name="Default Changelist" comment="Added HUSO, YUSO, Solon">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scienceolympiad.html" beforeDir="false" afterPath="$PROJECT_DIR$/scienceolympiad.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -75,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scienceolympiad.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
+            <state relative-caret-position="114">
+              <caret line="524" column="138" selection-start-line="524" selection-start-column="138" selection-end-line="524" selection-end-column="138" />
             </state>
           </provider>
         </entry>
@@ -110,6 +111,7 @@
       <find>Data SC</find>
       <find>Troy</find>
       <find>american</find>
+      <find>data science</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -157,6 +159,17 @@
             <path>
               <item name="personal-website" type="b2602c69:ProjectViewProjectNode" />
               <item name="personal-website" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-website" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-website" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -265,6 +278,8 @@
       <workItem from="1579481934802" duration="1000" />
       <workItem from="1580055157717" duration="2714000" />
       <workItem from="1580077801306" duration="1472000" />
+      <workItem from="1580188679095" duration="1194000" />
+      <workItem from="1580616225551" duration="2000000" />
     </task>
     <task id="LOCAL-00001" summary="Updated roles">
       <created>1563970427769</created>
@@ -497,17 +512,24 @@
       <option name="project" value="LOCAL" />
       <updated>1580078669866</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Fixed format">
+      <created>1580188889530</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1580188889530</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33805000" />
+    <option name="totallyTimeSpent" value="36999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="81" y="23" width="1471" height="961" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18275861" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18275861" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -519,7 +541,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32911393" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32911393" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -562,7 +584,8 @@
     <MESSAGE value="Fixed Titles" />
     <MESSAGE value="Added Video Link" />
     <MESSAGE value="Added MIT circuit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added MIT circuit" />
+    <MESSAGE value="Fixed format" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed format" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/personal_website$about_html.dat" NAME="about.html Coverage Results" MODIFIED="1578953885927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
@@ -653,8 +676,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scienceolympiad.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
+        <state relative-caret-position="114">
+          <caret line="524" column="138" selection-start-line="524" selection-start-column="138" selection-end-line="524" selection-end-column="138" />
         </state>
       </provider>
     </entry>
