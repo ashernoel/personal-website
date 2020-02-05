@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="720e12c9-9377-4b5f-a787-87ee966fded9" name="Default Changelist" comment="Added HUSO, YUSO, Solon">
+    <list default="true" id="720e12c9-9377-4b5f-a787-87ee966fded9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/guides.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scienceolympiad.html" beforeDir="false" afterPath="$PROJECT_DIR$/scienceolympiad.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -67,17 +67,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/travel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1440">
-              <caret line="96" column="237" selection-start-line="96" selection-start-column="237" selection-end-line="96" selection-end-column="237" />
+            <state relative-caret-position="292">
+              <caret line="81" column="53" lean-forward="true" selection-end-line="122" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scienceolympiad.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="533" column="121" lean-forward="true" selection-start-line="533" selection-start-column="121" selection-end-line="533" selection-end-column="121" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scienceolympiad.html">
+        <entry file="file://$PROJECT_DIR$/guides.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="524" column="138" selection-start-line="524" selection-start-column="138" selection-end-line="524" selection-end-column="138" />
+            <state relative-caret-position="387">
+              <caret line="81" column="108" selection-start-line="81" selection-start-column="108" selection-end-line="81" selection-end-column="108" />
             </state>
           </provider>
         </entry>
@@ -122,7 +131,6 @@
       <list>
         <option value="$PROJECT_DIR$/summer.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/guides.html" />
         <option value="$PROJECT_DIR$/science-olympiad.html" />
         <option value="$PROJECT_DIR$/dist/scienceolympiad.html" />
         <option value="$PROJECT_DIR$/dist/projects.html" />
@@ -139,6 +147,7 @@
         <option value="$PROJECT_DIR$/projects.html" />
         <option value="$PROJECT_DIR$/travel.html" />
         <option value="$PROJECT_DIR$/scienceolympiad.html" />
+        <option value="$PROJECT_DIR$/guides.html" />
       </list>
     </option>
   </component>
@@ -153,6 +162,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,7 +185,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,7 +288,8 @@
       <workItem from="1580055157717" duration="2714000" />
       <workItem from="1580077801306" duration="1472000" />
       <workItem from="1580188679095" duration="1194000" />
-      <workItem from="1580616225551" duration="2000000" />
+      <workItem from="1580616225551" duration="2093000" />
+      <workItem from="1580930331827" duration="472000" />
     </task>
     <task id="LOCAL-00001" summary="Updated roles">
       <created>1563970427769</created>
@@ -519,17 +529,24 @@
       <option name="project" value="LOCAL" />
       <updated>1580188889530</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Added HUSO, YUSO, Solon, Data Science">
+      <created>1580618363400</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1580618363401</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36999000" />
+    <option name="totallyTimeSpent" value="37564000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="81" y="23" width="1471" height="961" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18275861" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18275861" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -541,7 +558,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32911393" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -585,14 +602,14 @@
     <MESSAGE value="Added Video Link" />
     <MESSAGE value="Added MIT circuit" />
     <MESSAGE value="Fixed format" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed format" />
+    <MESSAGE value="Added HUSO, YUSO, Solon, Data Science" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HUSO, YUSO, Solon, Data Science" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/personal_website$about_html.dat" NAME="about.html Coverage Results" MODIFIED="1578953885927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/gallery.css" />
-    <entry file="file://$PROJECT_DIR$/guides.html" />
     <entry file="file://$PROJECT_DIR$/summer.html" />
     <entry file="https://github.com/ashernoel/personal-website.git">
       <provider selected="true" editor-type-id="httpFileEditor" />
@@ -660,13 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/travel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="96" column="237" selection-start-line="96" selection-start-column="237" selection-end-line="96" selection-end-column="237" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/books.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -676,8 +686,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scienceolympiad.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="524" column="138" selection-start-line="524" selection-start-column="138" selection-end-line="524" selection-end-column="138" />
+        <state relative-caret-position="249">
+          <caret line="533" column="121" lean-forward="true" selection-start-line="533" selection-start-column="121" selection-end-line="533" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="81" column="53" lean-forward="true" selection-end-line="122" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guides.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="81" column="108" selection-start-line="81" selection-start-column="108" selection-end-line="81" selection-end-column="108" />
         </state>
       </provider>
     </entry>
