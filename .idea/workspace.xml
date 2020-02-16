@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="720e12c9-9377-4b5f-a787-87ee966fded9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scienceolympiad.html" beforeDir="false" afterPath="$PROJECT_DIR$/scienceolympiad.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/books.html" beforeDir="false" afterPath="$PROJECT_DIR$/books.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -73,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scienceolympiad.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="540" column="80" selection-start-line="540" selection-start-column="70" selection-end-line="540" selection-end-column="80" />
+            <state relative-caret-position="466">
+              <caret line="562" column="42" lean-forward="true" selection-start-line="562" selection-start-column="42" selection-end-line="562" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -85,17 +85,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/guides.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
+            <state relative-caret-position="1095">
               <caret line="73" column="124" selection-start-line="73" selection-start-column="124" selection-end-line="73" selection-end-column="124" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/books.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            <state relative-caret-position="386">
+              <caret line="238" column="115" selection-start-line="238" selection-start-column="115" selection-end-line="238" selection-end-column="115" />
             </state>
           </provider>
         </entry>
@@ -141,13 +141,13 @@
         <option value="$PROJECT_DIR$/dist/about.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/books.html" />
         <option value="$PROJECT_DIR$/gallery.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/projects.html" />
         <option value="$PROJECT_DIR$/travel.html" />
         <option value="$PROJECT_DIR$/guides.html" />
         <option value="$PROJECT_DIR$/scienceolympiad.html" />
+        <option value="$PROJECT_DIR$/books.html" />
       </list>
     </option>
   </component>
@@ -162,6 +162,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -184,7 +185,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -290,7 +290,8 @@
       <workItem from="1580188679095" duration="1194000" />
       <workItem from="1580616225551" duration="2093000" />
       <workItem from="1580930331827" duration="1059000" />
-      <workItem from="1581275513966" duration="224000" />
+      <workItem from="1581275513966" duration="615000" />
+      <workItem from="1581891312200" duration="857000" />
     </task>
     <task id="LOCAL-00001" summary="Updated roles">
       <created>1563970427769</created>
@@ -551,11 +552,18 @@
       <option name="project" value="LOCAL" />
       <updated>1580930908706</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Added Princeton Circuit">
+      <created>1581275774120</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1581275774120</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38375000" />
+    <option name="totallyTimeSpent" value="39623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="81" y="23" width="1471" height="961" extended-state="0" />
@@ -619,7 +627,8 @@
     <MESSAGE value="Fixed format" />
     <MESSAGE value="Added HUSO, YUSO, Solon, Data Science" />
     <MESSAGE value="Added Guides" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Guides" />
+    <MESSAGE value="Added Princeton Circuit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Princeton Circuit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/personal_website$about_html.dat" NAME="about.html Coverage Results" MODIFIED="1578953885927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
@@ -700,24 +709,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/books.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/guides.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
+        <state relative-caret-position="1095">
           <caret line="73" column="124" selection-start-line="73" selection-start-column="124" selection-end-line="73" selection-end-column="124" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scienceolympiad.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="540" column="80" selection-start-line="540" selection-start-column="70" selection-end-line="540" selection-end-column="80" />
+        <state relative-caret-position="466">
+          <caret line="562" column="42" lean-forward="true" selection-start-line="562" selection-start-column="42" selection-end-line="562" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/books.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="238" column="115" selection-start-line="238" selection-start-column="115" selection-end-line="238" selection-end-column="115" />
         </state>
       </provider>
     </entry>
